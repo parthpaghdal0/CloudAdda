@@ -1,0 +1,7 @@
+
+*.stash
+*.user
+*.user.*
+*.Debug
+*.Release
+ui_*.h
